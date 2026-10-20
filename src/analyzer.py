@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 LogSentinel-Lite: Enterprise SOC Log Telemetry & Threat Detection Engine
-Author: Security Engineering Team
+Author: Sol Acunzos
 Description: Professional enterprise-grade log analyzer and threat dashboard.
 """
 
